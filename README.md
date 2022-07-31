@@ -1,4 +1,4 @@
-#  𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓
+#  𝐅𝐢𝐥𝐞 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐛𝐨𝐭 
 
 Telegram File Renamer Bot 
 
