@@ -119,7 +119,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("🛡 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙲𝚑𝚊𝚗𝚗𝚎𝚕👉", url="https://t.me/Tech_ai_youtube")
+               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴 ", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
                ],[
                InlineKeyboardButton("✔️ 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 ▶️ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕", url="https://youtube.com/channel/UCp55TO6iAoWkYhE3x2SiVOg")
                ],[
@@ -133,7 +133,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton(""🛡 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙲𝚑𝚊𝚗𝚗𝚎𝚕👉", url="https://t.me/Tech_ai_youtube")
+               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴 ", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
                ],[
                InlineKeyboardButton("✔️ 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 ▶️ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕", url="https://youtube.com/channel/UCp55TO6iAoWkYhE3x2SiVOg")
                ],[
