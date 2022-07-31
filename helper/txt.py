@@ -1,7 +1,7 @@
 """
 Apache License 2.0
 
-Copyright (c) 2022 @PYRO_BOTZ
+Copyright (c) 2022 @Tech_AI_bots
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18,9 +18,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Telegram Link : https://t.me/PYRO_BOTZ 
-Repo Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT
-License Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT/blob/main/LICENSE
+Telegram Link : https://t.me/TECH_AI_BOTS
+Repo Link : https://github.com/nikhivishwa/renamebotfile
+License Link : https://github.com/nikhivishwa/renamebotfile/blob/main/LICENSE
 """
 
 class mr(object):
@@ -63,7 +63,8 @@ Example:- /set_caption 📕 File Name: {filename}
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file <br>
 •> click rename option <br>
-•> type new file name and \n send select [ document, video, audio ]👈 choice this.
+•> type new file name and \n send 
+•> select [ document, video, audio ]👈 choice this.
 
 ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/+WyQN-XIUKUU1Mzk1>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
@@ -72,7 +73,7 @@ Example:- /set_caption 📕 File Name: {filename}
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>𝐅𝐈𝐋𝐄 𝐓𝐇𝐔𝐌𝐁𝐍𝐀𝐈𝐋 𝐁𝐎𝐓</a>
+» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/nikhivishwa/renamebotfile>𝐅𝐈𝐋𝐄 𝐓𝐇𝐔𝐌𝐁𝐍𝐀𝐈𝐋 𝐁𝐎𝐓</a>
 » 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtu.be/GfulqsSnTv4>MoTech Yt</a>
 
 • ❣️ <a href=https://github.com/lntechnical2>𝗟𝗡 𝗧𝗘𝗖𝗛𝗡𝗜𝗖</a>
