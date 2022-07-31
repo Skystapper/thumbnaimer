@@ -34,12 +34,12 @@
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "pyro-botz",
+            "value": "Filethumbnailbot777",
             "required": false
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
-            "value": "https://telegra.ph/file/04d08445dce68c9a57b25.jpg"
+            "value": "https://telegra.ph/file/1992cd13f57ad54a6e687.jpg"
         }
     },
     "stack": "heroku-22",
