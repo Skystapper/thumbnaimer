@@ -118,7 +118,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.ABOUT_TXT.format(client.mention),
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
-               #⚠️ don't change source code & source link ⚠️ #
+               #⚠️  My Telegram & YouTube ▶️ Channel link 🔗 #
                InlineKeyboardButton("🛡 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 ✔️", url="https://t.me/Tech_ai_youtube")
                ],[
                InlineKeyboardButton("✔️ 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 ▶️ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕", url="https://youtube.com/channel/UCp55TO6iAoWkYhE3x2SiVOg")
@@ -132,7 +132,7 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               #⚠️ don't change source code & source link ⚠️ #
+               #⚠️ My Telegram & YouTube ▶️ Channel link 🔗 #
                InlineKeyboardButton("🛡 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 ✔️", url="https://t.me/Tech_ai_youtube")
                ],[
                InlineKeyboardButton("✔️ 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 ▶️ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕", url="https://youtube.com/channel/UCp55TO6iAoWkYhE3x2SiVOg")
