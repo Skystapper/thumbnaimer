@@ -12,6 +12,7 @@ Telegram File Renamer Bot
 
 ### DEPLOYEMENT SUPPORT
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skystapper/thumbnaimer)
 
 <details><summary>Deploy To Heroku</summary>
 <p>
